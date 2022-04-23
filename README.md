@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Health Hub.com](https://pablo-cyber21.github.io/healthhab/)
 
-- 🌱 I’m currently learning **React JS Design paradigms and software archictecture.**
+- 🌱 I’m currently learning **React JS, Design paradigms and software archictecture.**
 
 - 📝 I regularly write articles on [https://dev.to/pablocyber21](https://dev.to/pablocyber21)
 
