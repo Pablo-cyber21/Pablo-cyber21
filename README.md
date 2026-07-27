@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Asiimawe Pablo</h1>
-<h3 align="center">A passionate frontend developer from Uganda.</h3>
+<h3 align="center">A Networking Assosciate, Frotend dev and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-cyber21&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-cyber21" /> </p>
 
-- 🔭 I’m currently working on [DESN](https://www.landingpage.desnshop.com/)
+- 🔭 I’m currently working on ruling the world
 
-- 🌱 I’m currently learning **React JS, Design paradigms and software archictecture.**
+- 🌱 I’m currently learning **General Use IT, Agentic systems development and Profressional Network Security.**
 
-- 📝 I regularly write articles on [https://dev.to/pablocyber21](https://dev.to/pablocyber21)
+- 📝 I share my tech thoughts on [https://dev.to/pablocyber21](https://dev.to/pablocyber21)
 
-- 📫 How to reach me **pasiimawe@gmail.com**
+- 📫 How to reach me *rodrickpablocode@gmail.com*
 
-- ⚡ Fun fact **I am an addict to all things that have circuits for brains**
+- ⚡ Fun fact **If you were a lemon , i would squeeze the hell out of you**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
