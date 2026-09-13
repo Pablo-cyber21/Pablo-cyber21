@@ -44,14 +44,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/>
-</a>
 <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Networking%20(CCNA)-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="networking" height="28"/>
+  <img src="https://img.shields.io/badge/-Networking-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="networking" height="28"/>
 </a>
 </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-cyber21&" alt="pablo-cyber21" /></p>
